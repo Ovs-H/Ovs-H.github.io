@@ -20,4 +20,4 @@
     background: #ff6600;
   } 
 </style>
-<button type="button" name="run_script">Запустить скрипт</button>
+<button type="button" name="run_script">Я не чурка</button>
