@@ -5,19 +5,23 @@
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/fccdaa1c-b1d8-436e-b2cf-2dd13c746cb9" id="AiNaGjfYp5TE"></iframe></div>
 
-<style type="text/css"> 
-  button[name="run_script"] { 
-    border: none;
-    border-radius: 7px;
-    padding: 10px 25px;
-    background: #ff9900;
-    cursor: pointer;
-    text-transform: uppercase;
-    font-weight: bold;
-    color: white;
-  }
-  button[name="perehod"]:hover { 
-    background: #ff6600;
-  } 
-</style>
-<button type="button" name="perehod">Переходка</button>
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Кнопка</title>
+  <style>
+   .btn {
+    display: inline-block; 
+    background: #8C959D; 
+    color: #fff; 
+    padding: 1rem 1.5rem;
+    text-decoration: none; 
+    border-radius: 3px; 
+   }
+  </style>
+ </head>
+ <body> 
+  <a href="page/" class="btn">Переход по ссылке</a>
+ </body>
+</html>
