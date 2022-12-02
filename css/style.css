@@ -1,1 +1,17 @@
-
+.button_1669950437336 {
+    display: inline-block !important;
+    text-decoration: none !important;
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    border: 3px solid #17a5dd !important;
+    border-radius: 9px !important;
+    font-size: 20px !important;
+    padding: 18px 50px !important; 
+    transition: all 0.6s ease !important;
+}
+.button_1669950437336:hover{
+    text-decoration: none !important; 
+    background-color: #006089 !important;
+    color: #ffeded !important;
+    border-color: #006089 !important;
+}
