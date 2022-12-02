@@ -6,9 +6,6 @@
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/fccdaa1c-b1d8-436e-b2cf-2dd13c746cb9" id="AiNaGjfYp5TE"></iframe></div>
 
 
-
-
-</style>
-<a href="" class="button_1669950437336" target="_blank">
+<a href="https://github.com/Ovs-H" class="button_1669950437336" target="_blank">
   Кнопка
 </a>
