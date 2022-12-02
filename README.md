@@ -22,6 +22,6 @@
   </style>
  </head>
  <body> 
-  <a href="page/https://github.com/Ovs-H" class="btn">К величайшему</a>
+  <a href="github.com/Ovs-H" class="btn">К величайшему</a>
  </body>
 </html>
