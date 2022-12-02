@@ -20,4 +20,4 @@
     background: #ff6600;
   } 
 </style>
-<button type="button" name="run_script">Я не чурка</button>
+<button type="button" name="run_script">Переходка</button>
