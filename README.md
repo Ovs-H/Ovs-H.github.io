@@ -16,8 +16,8 @@
     font-weight: bold;
     color: white;
   }
-  button[name="run_script"]:hover { 
+  button[name="perehod"]:hover { 
     background: #ff6600;
   } 
 </style>
-<button type="button" name="run_script">Переходка</button>
+<button type="button" name="perehod">Переходка</button>
